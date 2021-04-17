@@ -1,5 +1,7 @@
-# TensorFlow-2.x-YOLOv3 and YOLOv4 tutorials
+created by: pylessons - Rokas Balsys - https://pylessons.com/YOLOv3-TF2-introduction/
+new features: adding boundin box annotations to CSV file.
 
+# TensorFlow-2.x-YOLOv3 and YOLOv4 tutorials
 YOLOv3 and YOLOv4 implementation in TensorFlow 2.x, with support for training, transfer training, object tracking mAP and so on...
 Code was tested with following specs:
 - i7-7700k CPU and Nvidia 1080TI GPU
