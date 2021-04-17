@@ -1,4 +1,4 @@
-created by: pylessons - Rokas Balsys - https://pylessons.com/YOLOv3-TF2-introduction/
+created by: pylessons - Rokas Balsys - https://pylessons.com/YOLOv3-TF2-introduction/<br>
 new features: adding boundin box annotations to CSV file.
 
 # TensorFlow-2.x-YOLOv3 and YOLOv4 tutorials
